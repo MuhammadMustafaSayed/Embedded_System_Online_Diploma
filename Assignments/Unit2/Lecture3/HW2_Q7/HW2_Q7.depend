@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632485780 source:e:\embedded\mastering embedded systems\assignments\unit2\lecture3\hw2_q7\main.c
+	<stdio.h>
+	<stdlib.h>
+
