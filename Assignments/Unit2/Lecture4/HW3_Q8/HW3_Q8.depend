@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1633215289 source:e:\embedded\mastering embedded systems\embedded_system_online_diploma\assignments\unit2\lecture4\hw3_q8\main.c
-	<stdio.h>
-	<stdlib.h>
-	<string.h>
-
