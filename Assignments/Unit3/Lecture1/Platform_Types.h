@@ -21,7 +21,7 @@
 
 //Please Put the name of the architecture
 
-#define Architecture 10
+#define Architecture S12X
 
 #if Architecture == S12X
 	typedef unsigned char      boolean;
